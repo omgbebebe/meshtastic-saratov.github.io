@@ -10,6 +10,6 @@
 
 ## Мощность и частоты
 
-<iframe src="https://digital.gov.ru/uploaded/files/prilozhenie-12-k-reshenyu-gkrch-18-46-03-1.pdf" width="100%" height="700"></iframe>
+![Приложение № 12 к решению ГКРЧ](../pics/prilozhenie-12-k-reshenyu-gkrch-18-46-03-1-1.png)
 
 [Источник: digital.gov.ru](https://digital.gov.ru/uploaded/files/prilozhenie-12-k-reshenyu-gkrch-18-46-03-1.pdf)

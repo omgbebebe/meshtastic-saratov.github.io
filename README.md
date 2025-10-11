@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/027a5f9c-657d-4467-b2a1-e5209adc494e" alt="Meshtastic Саратов" width="200" height="200"/>
+  <img src="pics/meshtastic-saratov-logo.png" alt="Meshtastic Саратов" width="200" height="200"/>
 </p>
 
 <h1 align="center">Meshtastic — Саратов</h1>
